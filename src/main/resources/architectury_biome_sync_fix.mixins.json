@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.antigravity.archbiomesync.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BiomeModificationsImplMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
