@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="architectury_biome_sync_fix"
+version="1.0.0"
+displayName="Architectury Biome Sync Fix"
+description="Makes Architectury BiomeModificationsImpl lists thread-safe during parallel mod loading."
